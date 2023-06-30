@@ -1,0 +1,26 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="SmokeTestSuite" verbose="1" parallel="classes" thread-count="1">
+    <listeners>
+        <listener class-name="org.OptimaBus.UI.utils.AllureReportListener"/>
+    </listeners>
+    <test name="SmokeTest">
+        <classes>
+            <class name="OptimaBusTests.uiTests.LoginTests"/>
+            <class name="OptimaBusTests.uiTests.CalcTests"/>
+            <class name="OptimaBusTests.uiTests.SettingsTests"/>
+            <class name="OptimaBusTests.uiTests.MainPageTest"/>
+            <class name="OptimaBusTests.uiTests.OperationHisTests"/>
+<!--            <class name="OptimaBusTests.uiTests.IntraBankTest"/>-->
+        </classes>
+    </test>
+<!--    <test name="Regression">-->
+<!--        <classes>-->
+
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name="2E2">-->
+<!--        <classes>-->
+
+<!--        </classes>-->
+<!--    </test>-->
+</suite>

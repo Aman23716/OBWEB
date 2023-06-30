@@ -39,7 +39,7 @@ public class MainPage extends BasePage {
     @FindBy(xpath = "(.//div[@class='account-header'])[1]")
     public WebElement HUI;
 
-    @FindBy(xpath = ".//a[@class='user-toggle']")
+    @FindBy(xpath = ".//a[@class='user-toggle no-caret']")
     public WebElement chooseCompany;
 
     @FindBy(xpath = ".//button[@class='aside-dropdown-item dropdown-item user-text text-dark'][2]")

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a431381c-e6f6-474a-9715-98583630eae1" name="Changes" comment="AM">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/OptimaBus/UI/pages/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/OptimaBus/UI/pages/MainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/OptimaBusTests/uiTests/BaseUiTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OptimaBusTests/uiTests/BaseUiTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/OptimaBus/UI/pages/MainPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/OptimaBus/UI/pages/MainPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/OptimaBusTests/uiTests/BaseUiTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/OptimaBusTests/uiTests/BaseUiTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/OptimaBusTests/uiTests/CalcTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/OptimaBusTests/uiTests/CalcTests.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Amanus1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2RuQueWFCU7fOEJY3viKkM9g5Kq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Asus/Projects&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;application.passwordSafe&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\Projects\OptimaBusinessWEB1\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.CalcTests (1)">
+    <configuration name="CalcTests (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OptimaBusinessWEB1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OptimaBusTests.uiTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="OptimaBusTests.uiTests" />
+      <option name="MAIN_CLASS_NAME" value="OptimaBusTests.uiTests.CalcTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalcTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OptimaBusinessWEB1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.OptimaBusTests.uiTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uiTests" />
+      <option name="MAIN_CLASS_NAME" value="uiTests.CalcTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntraBankTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OptimaBusinessWEB1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OptimaBusTests.uiTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="OptimaBusTests.uiTests" />
+      <option name="MAIN_CLASS_NAME" value="OptimaBusTests.uiTests.IntraBankTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.CalcTests (1)" />
+        <item itemvalue="TestNG.IntraBankTest" />
+        <item itemvalue="TestNG.CalcTests" />
+        <item itemvalue="TestNG.CalcTests (1)" />
+        <item itemvalue="TestNG.CalcTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a431381c-e6f6-474a-9715-98583630eae1" name="Changes" comment="" />
+      <created>1688097714086</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688097714086</updated>
+    </task>
+    <task id="LOCAL-00001" summary="AM">
+      <created>1688103894972</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688103894972</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="AM" />
+    <option name="LAST_COMMIT_MESSAGE" value="AM" />
+  </component>
+</project>

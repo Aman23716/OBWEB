@@ -11,7 +11,6 @@ import org.testng.annotations.BeforeClass;
 public abstract class BaseUiTests {
 
 
-
     CustomAssertions customAssertions;
 
     WebElementActions webElementActions;
@@ -47,7 +46,6 @@ public abstract class BaseUiTests {
         more = new More();
         staff = new Staff();
         converting= new Converting();
-
         customAssertions = new CustomAssertions();
     }
     @AfterClass
