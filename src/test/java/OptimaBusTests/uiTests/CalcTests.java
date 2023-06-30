@@ -44,7 +44,6 @@ public class CalcTests extends BaseUiTests{
         Converting converting2 = converting.LOL();
         Converting converting1 = converting.GetDocumValue();
         Assert.assertEquals(converting1,converting2);
-//        z
     }
 
 
